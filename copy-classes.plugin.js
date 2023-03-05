@@ -1,4 +1,5 @@
 importPackage(java.text);
+importPackage(java.awt.datatransfer);
 importPackage(com.intellij.openapi.fileEditor.FileEditorManager);
 importPackage(com.intellij.openapi.project);
 importPackage(com.intellij.openapi.editor);
